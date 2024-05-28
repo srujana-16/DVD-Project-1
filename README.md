@@ -1,7 +1,9 @@
-# DVD-Project-1 
+# Estimating Leakage of ISCAS 74182 Circuit
 
 ## Overview
-This project, implemented as part of the Digital VLSI Design course aims to explore the behavior of MOSFETs in digital VLSI circuits through simulation and analysis. By investigating transistor characteristics, transistor stacks, and circuit leakage, the project aims to provide valuable insights into the design and optimization of digital circuits.
+Project done as part of  **Digital VLSI Design course at IIIT Hyderabad**. 
+
+In this project, we aim to explore the behavior of MOSFETs in digital VLSI circuits through simulation and analysis. By investigating transistor characteristics, transistor stacks, and circuit leakage, the project aims to provide valuable insights into the design and optimization of digital circuits.
 Spanning multiple stages, the project progresses from characterizing individual MOSFETs to estimating leakage in complex gate-level schematics.
 
 ## Parameters
