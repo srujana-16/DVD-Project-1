@@ -1,4 +1,4 @@
-# Estimating Leakage of ISCAS 74182 Circuit
+# Estimating Leakage of ISCAS 74182 Circuit - DVD Project 1
 
 ## Overview
 Project done as part of  **Digital VLSI Design course at IIIT Hyderabad**. 
